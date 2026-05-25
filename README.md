@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=ABeeZee&preferLogin=false">  
-    <img  alt="ridusm's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ridusm?cardType=github&theme=github-dark&fontFamily=ABeeZee&preferLogin=false" />  
+    <img  alt="ridusm's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ridusm?cardType=github&theme=github-dark&preferLogin=false" />  
   </a>
 </p>
 
@@ -62,6 +62,10 @@
 - 🎮 Gaming sessions
 
 ---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github&border=true" alt="Цитата" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RidusM&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />

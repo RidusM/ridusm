@@ -28,10 +28,10 @@
 
 ### 💼 Current Projects
 
-**SalesTracker(WIP)** - CRUD with analytics and data aggregation
-**WarehouseControl(WIP)** - Warehouse CRUD with history and RBAC
-**EventCalendar(WIP)** - Event Calendar CRUD
-**DisturbedCLI(WIP)** - Distributed CLI utility. grep - complete, cut/sort - wip
+* **SalesTracker(WIP)** - CRUD with analytics and data aggregation
+* **WarehouseControl(WIP)** - Warehouse CRUD with history and RBAC
+* **EventCalendar(WIP)** - Event Calendar CRUD
+* **DisturbedCLI(WIP)** - Distributed CLI utility. grep - complete, cut/sort - wip
 
 * **Marketplace Prototype** - Resilience marketplace prototype
 * **Order Service** - Resilience demo service with Kafka, PostgreSQL, cache and Observability

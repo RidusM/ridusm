@@ -34,8 +34,8 @@
 **DisturbedCLI(WIP)** - Distributed CLI utility. grep - complete, cut/sort - wip
 
 * **Marketplace Prototype** - Resilience marketplace prototype
-- **Order Service** - Resilience demo service with Kafka, PostgreSQL, cache and Observability
-- **DelayedNotifier** - Delayed notifications via queues
+* **Order Service** - Resilience demo service with Kafka, PostgreSQL, cache and Observability
+* **DelayedNotifier** - Delayed notifications via queues
 * **LShortener** - URL shortening service with analytics
 * **CommentTree** - Tree-like comments with navigation and search
 * **ImageProcessor** - Background image processing queue
